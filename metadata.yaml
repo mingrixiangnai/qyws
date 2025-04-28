@@ -1,0 +1,6 @@
+name: astrbot_plugin_qyws
+desc: 随机播放文件夹里千原万神小丛雨的语音插件。
+help: 千原万神
+version: v1.0
+author: mingrixiangnai
+repo: https://github.com/mingrixiangnai/qyws
