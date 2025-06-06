@@ -17,7 +17,7 @@ https://napneko.github.io/config/advanced
 *   请确保 AstrBot 机器人已正确安装并配置。
 *   只测试了aiocqhttp+napcat
 *   需要把“回复引用”消息关掉。
-![1](https://github.com/user-attachments/assets/3bb116ee-d09e-4da6-936f-22c9ac3868d2)
+![438480214-3bb116ee-d09e-4da6-936f-22c9ac3868d2](https://github.com/user-attachments/assets/bfbd7034-4bc9-4354-9d6a-d35a703d634b)
 
 
 
@@ -29,7 +29,8 @@ https://napneko.github.io/config/advanced
 **机器人：** 
 
 	随机发送一条语音
-![2](https://github.com/user-attachments/assets/fc7f4bd2-f1d6-4336-9d08-f8c0dfcf023c)
+ ![438480238-fc7f4bd2-f1d6-4336-9d08-f8c0dfcf023c](https://github.com/user-attachments/assets/dd22fb99-4bf4-4cbe-869d-f68d5baf6b5b)
+
 
 
 
