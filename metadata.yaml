@@ -1,0 +1,6 @@
+name: astrbot_plugin_qyws
+desc: 随机播放文件夹里千原万神小丛雨的语音，需要安装FFmpeg
+help: 千原万神
+version: v1.1
+author: mingrixiangnai
+repo: https://github.com/mingrixiangnai/qyws
