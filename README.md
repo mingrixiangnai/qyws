@@ -4,7 +4,7 @@
 
 ## 简介
 
-在群里输入【千原万神】即可发送文件夹里的随机语音
+【仅aiocqhttp】在群里输入【千原万神】即可发送文件夹里的随机语音
 
 ## 配置
 
@@ -30,10 +30,6 @@ https://napneko.github.io/config/advanced
 
 	随机发送一条语音
  ![438480238-fc7f4bd2-f1d6-4336-9d08-f8c0dfcf023c](https://github.com/user-attachments/assets/dd22fb99-4bf4-4cbe-869d-f68d5baf6b5b)
-
-
-
-
 
 ## 其他
 
